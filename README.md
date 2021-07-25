@@ -31,6 +31,16 @@ When you receive an email, in a lot of cases, the email only has some general in
 
 Our project has been to create AMP enhanced emails that can be used to help educate consumers, and other companies that rely heavily on notification emails about the potential of AMP, and how it can make the users inbox be more productive. 
 
+# What is AMP?
+
+![AMP and GMAIL](https://esourcecapital.it/wp-content/uploads/2018/03/google-incorpora-amp-no-gmail-1.jpg)
+
+ AMP was origonally developed by Google in 2015, as on open source technology to boost loading speeds on mobile devices.
+ Then in 2018 Google announced AMP-powered emails, that would create a interactive email experience.
+ Now in 2021 AMP-powered emails, let you shop, and fill out forms in your email withought leaving your inbox.
+ AMP-powered emails allow us to bringing live data into emails, and provide a powerful user experience.
+ Anytime we use AMP technology there are unilitmied new possiblites, because we can now make emails feel more like interactive webpages.
+
 
 ## Parcel Tracking
 
