@@ -1,4 +1,4 @@
-![alt text](https://www.litmus.com/wp-content/uploads/2020/04/gmail-rolls-out-support-for-amp.png "")
+![alt text](https://1rj8i398ld62y6ih02fyvv4k-wpengine.netdna-ssl.com/wp-content/uploads/2020/10/AMP-Whitepaper-featured-tall-1-600x395.png "")
 # What is AMP?
 
  AMP was origonally developed by Google in 2015, as on open source technology to boost loading speeds on mobile devices.
