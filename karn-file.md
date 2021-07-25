@@ -16,6 +16,8 @@ By allowing customers to fill out reviews withought needing to open a new browse
 
 
 # Product reviews app with Yotpo
+![yotpo_gif](https://user-images.githubusercontent.com/77651757/126915617-3d8bf30a-736e-4477-b2c3-e8f851f84839.gif)
+
 
 
 
