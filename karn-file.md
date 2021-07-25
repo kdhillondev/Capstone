@@ -15,7 +15,7 @@ We wanted to create a product review email, that would increase the product revi
 By allowing customers to fill out reviews withought needing to open a new browser tab, we hope to publish a valuable application for many businesses.
 
 
-#Product reviews app with Yotpo
+# Product reviews app with Yotpo
 
 
 
