@@ -31,7 +31,7 @@ When you receive an email, in a lot of cases, the email only has some general in
 
 Our project has been to create AMP enhanced emails that can be used to help educate consumers, and other companies that rely heavily on notification emails about the potential of AMP, and how it can make the users inbox be more productive. 
 
-# What is AMP?
+## What is AMP?
 
 ![AMP and GMAIL](https://esourcecapital.it/wp-content/uploads/2018/03/google-incorpora-amp-no-gmail-1.jpg)
 
@@ -41,6 +41,7 @@ Our project has been to create AMP enhanced emails that can be used to help educ
  AMP-powered emails allow us to bringing live data into emails, and provide a powerful user experience.
  Anytime we use AMP technology there are unilitmied new possiblites, because we can now make emails feel more like interactive webpages.
 
+# Some Apps
 
 ## Parcel Tracking
 
@@ -51,4 +52,15 @@ When you purchase something online, typically, you are sent a confirmation email
 This can be solved using AMP enhanced features in email. With AMP, when a user opens an emails, they see the latest information about the package, without having to receive multiple email. This removes the need to have to click though the email to an outside site, and creates a more productive inbox.
 
 This demo is powered by Easypost, a parcel tracking service that is capable to tracking parcels across many different carriers in many different countries, including Canada Post, USPS, FedEx, UPS and more. Because this information is fetched as the email is opened, it is able to show the user: where it is, and when it is scheduled to arrive.
+
+## Marketing Email
+
+Dyspatch wants to send an email announcement about Dyspatch's AMP support to inform their marketing list about the possibilities and encourage them to try out the technology on Dyspatch's platform.
+
+The email had a design already existing for us, but the blocks themselves needed to be created and the blog scraper needed caching implemented.
+
+Broadly speaking the email implements most of AMPs most important features includeing a list to load data from a server, multiple forms for submitting data, and sensible fallback states for if the email can not connect to the internet or if it is sent to an email service provider that does not support AMP.
+
+![Marketing Email Demo](/assets/marketing-email.gif)
+
 
