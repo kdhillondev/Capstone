@@ -43,6 +43,16 @@ Our project has been to create AMP enhanced emails that can be used to help educ
 
 ## Some Apps
 
+## Product reviews app with Yotpo
+
+We wanted to create a product review email that would increase the product review submissions. By combining both AMP technology with Yotpo's product review system, we were able to create an email template. This email template would then be used by Dyspatch users, to send to their customers in email, asking for a product review. 
+By allowing customers to fill out reviews without needing to open a new browser tab, we hope to publish a valuable application for many businesses.
+
+All reviews are sent to Yotpo's e-commerce analytics. Performance analytics are then available to bring digital solutions for marketing and sales teams.
+
+![yotpo_gif](https://user-images.githubusercontent.com/77651757/126915617-3d8bf30a-736e-4477-b2c3-e8f851f84839.gif)
+
+
 ### Parcel Tracking
 
 <img src="https://user-images.githubusercontent.com/16964252/126915135-abff026b-ed73-4500-bf3d-37a61b9db275.gif" style="float: right; height: 500px;" />
