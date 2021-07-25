@@ -1,6 +1,8 @@
 
 # What is AMP?
+
 ![alt text](https://esourcecapital.it/wp-content/uploads/2018/03/google-incorpora-amp-no-gmail-1.jpg "")
+
  AMP was origonally developed by Google in 2015, as on open source technology to boost loading speeds on mobile devices.
  Then in 2018 Google announced AMP-powered emails, that would create a interactive email experience.
  Now in 2021 AMP-powered emails, let you shop, and fill out forms in your email withought leaving your inbox.
