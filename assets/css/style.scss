@@ -4,7 +4,7 @@
 @import 'jekyll-theme-cayman';
 
 
-
+// DESKTOP SIZE
 @media screen and (min-width: 64em) {
   video {
     max-width: 832px;
@@ -13,14 +13,17 @@
   }
 }
 
+// TABLET/LOW_RES_LAPTOP
 @media screen and (min-width: 42em) and (max-width: 64em) {
   video {
-    max-width: 864px;
+    max-width: calc(100vw - 128px);
     margin: auto;
+    text-align: center;
     max-height: 500px;
   }
 }
 
+// MOBILE
 @media screen and (max-width: 42em) {
   video {
     max-width: 100%
