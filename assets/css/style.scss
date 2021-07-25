@@ -3,8 +3,24 @@
 
 @import 'jekyll-theme-cayman';
 
-video {
-  max-height: 500px;
-  width: auto;
-  margin: auto;
+
+
+@media screen and (min-width: 64em) {
+  video {
+    max-width: 64rem;
+    padding: 2rem 6rem;
+    margin: 0 auto;
+  }
+}
+
+@media screen and (min-width: 42em) and (max-width: 64em) {
+  video {
+    padding: 2rem 4rem;
+  }
+}
+
+@media screen and (max-width: 42em) {
+  video {
+    padding: 2rem 1rem;
+  }
 }
