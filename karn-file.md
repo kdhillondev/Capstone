@@ -10,7 +10,7 @@
  Anytime we use AMP technology there are unilitmied new possiblites, because we can now make emails feel more like interactive webpages.
 
 
-#Description of the project
+# Description of the project
 We wanted to create a product review email, that would increase the product review submissions. By combining both AMP technology with Yotpo's product review system, we were able to create an email template. This email template would then be used by Dyspatch users, to send to their customers in email, asking for a product review. 
 By allowing customers to fill out reviews withought needing to open a new browser tab, we hope to publish a valuable application for many businesses.
 
