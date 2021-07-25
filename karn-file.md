@@ -1,4 +1,4 @@
-![alt text](https://1rj8i398ld62y6ih02fyvv4k-wpengine.netdna-ssl.com/wp-content/uploads/2020/10/AMP-Whitepaper-featured-tall-1-600x395.png "")
+![alt text](https://esourcecapital.it/wp-content/uploads/2018/03/google-incorpora-amp-no-gmail-1.jpg "")
 # What is AMP?
 
  AMP was origonally developed by Google in 2015, as on open source technology to boost loading speeds on mobile devices.
