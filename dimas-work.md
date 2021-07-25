@@ -12,12 +12,7 @@ This can be solved using AMP enhanced features in email. With AMP, when a user o
 
 This demo is powered by Easypost, a parcel tracking service that is capable to tracking parcels across many different carriers in many different countries, including Canada Post, USPS, FedEx, UPS and more. Because this information is fetched as the email is opened, it is able to show the user: where it is, and when it is scheduled to arrive.
 
-WIP ↓
-
-https://user-images.githubusercontent.com/16964252/126885178-060f7d3c-62f5-4e52-9413-475351ee35d6.mp4
-<video autoplay loop src="https://user-images.githubusercontent.com/16964252/126885178-060f7d3c-62f5-4e52-9413-475351ee35d6.mp4" />
-
-WIP ↑
+<img src="https://user-images.githubusercontent.com/16964252/126915135-abff026b-ed73-4500-bf3d-37a61b9db275.gif" style="float: right; height: 500px;" />
 
 ## Conclusion 
 
