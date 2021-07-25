@@ -15,7 +15,7 @@ This demo is powered by Easypost, a parcel tracking service that is capable to t
 WIP ↓
 
 https://user-images.githubusercontent.com/16964252/126885178-060f7d3c-62f5-4e52-9413-475351ee35d6.mp4
-<video autoplay src="https://user-images.githubusercontent.com/16964252/126885178-060f7d3c-62f5-4e52-9413-475351ee35d6.mp4" />
+<video autoplay loop src="https://user-images.githubusercontent.com/16964252/126885178-060f7d3c-62f5-4e52-9413-475351ee35d6.mp4" />
 
 WIP ↑
 
