@@ -1,4 +1,4 @@
-![alt text][https://www.litmus.com/wp-content/uploads/2020/04/gmail-rolls-out-support-for-amp.png "amp+gmail"]
+![alt text](https://www.litmus.com/wp-content/uploads/2020/04/gmail-rolls-out-support-for-amp.png "amp+gmail")
 ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
 # What is AMP?
 
