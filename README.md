@@ -33,7 +33,7 @@ Our project has been to create AMP enhanced emails that can be used to help educ
 
 ### What is AMP?
 
-![AMP and GMAIL](https://esourcecapital.it/wp-content/uploads/2018/03/google-incorpora-amp-no-gmail-1.jpg)
+<img style="margin: auto;" alt="AMP + Gmail" src="https://esourcecapital.it/wp-content/uploads/2018/03/google-incorpora-amp-no-gmail-1.jpg" />
 
  AMP was origonally developed by Google in 2015, as on open source technology to boost loading speeds on mobile devices.
  Then in 2018 Google announced AMP-powered emails, that would create a interactive email experience.
