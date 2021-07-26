@@ -44,7 +44,7 @@ Our project has been to create AMP enhanced emails that can be used to help educ
 
 ### Parcel Tracking
 
-<img src="https://user-images.githubusercontent.com/16964252/126915135-abff026b-ed73-4500-bf3d-37a61b9db275.gif" id="parcelTrackImg" style="float: right; height: 500px;" />
+<img src="https://user-images.githubusercontent.com/16964252/126915135-abff026b-ed73-4500-bf3d-37a61b9db275.gif" id="parcelTrackImg" />
 
 When you purchase something online, typically, you are sent a confirmation email with a link to track you package. An issue with this is that it requires the user to click though to a link to an outside site, and in some cases, users receive additional emails about the packages location.
 
