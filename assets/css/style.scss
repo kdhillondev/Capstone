@@ -4,6 +4,10 @@
 @import 'jekyll-theme-cayman';
 // ↑↑↑ NO TOUCHING ↑↑↑
 
+img {
+  max-height: 500px; // Keep it from getting to tall
+  margin: auto; // Keep it centered
+}
 // DESKTOP SIZE
 @media screen and (min-width: 64em) {
   video {
@@ -20,6 +24,10 @@
     margin: auto;
     text-align: center;
     max-height: 500px;
+  } 
+  #parcelTrackImg {
+    margin: auto;
+    float: initial;
   }
 }
 
@@ -27,5 +35,9 @@
 @media screen and (max-width: 42em) {
   video {
     max-width: 100%
+  }
+  #parcelTrackImg {
+    margin: auto;
+    float: initial;
   }
 }
