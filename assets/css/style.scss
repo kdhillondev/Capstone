@@ -17,9 +17,6 @@ img {
     margin: auto;
     max-height: 500px;
   }
-  #parcelTrackImg {
-    float: right;
-  }
 }
 
 // TABLET/LOW_RES_LAPTOP
@@ -30,23 +27,11 @@ img {
     text-align: center;
     max-height: 500px;
   } 
-  #parcelTrackImg {
-    display: block;
-    margin-left: auto;
-   margin-right: auto;
-    float: initial;
-  }
 }
 
 // MOBILE
 @media screen and (max-width: 42em) {
   video {
     max-width: 100%
-  }
-  #parcelTrackImg {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    float: initial;
   }
 }
