@@ -41,10 +41,7 @@ Our project has been to create AMP enhanced emails that can be used to help educ
 
 ## Some Apps
 
-
 ### Parcel Tracking
-
-<img src="https://user-images.githubusercontent.com/16964252/126915135-abff026b-ed73-4500-bf3d-37a61b9db275.gif" id="parcelTrackImg" />
 
 When you purchase something online, typically, you are sent a confirmation email with a link to track you package. An issue with this is that it requires the user to click though to a link to an outside site, and in some cases, users receive additional emails about the packages location.
 
@@ -52,13 +49,9 @@ This can be solved using AMP enhanced features in email. With AMP, when a user o
 
 This demo is powered by Easypost, a parcel tracking service that is capable to tracking parcels across many different carriers in many different countries, including Canada Post, USPS, FedEx, UPS and more. Because this information is fetched as the email is opened, it is able to show the user: where it is, and when it is scheduled to arrive.
 
-
-
-
+<img src="https://user-images.githubusercontent.com/16964252/126915135-abff026b-ed73-4500-bf3d-37a61b9db275.gif" id="parcelTrackImg" />
 
 ### Marketing Email
-
-![Marketing Email Demo](/assets/marketing-email.gif)
 
 Dyspatch wants to send an email announcement about Dyspatch's AMP support to inform their marketing list about the possibilities and encourage them to try out the technology on Dyspatch's platform.
 
@@ -66,19 +59,16 @@ The email had a design already existing for us, but the blocks themselves needed
 
 Broadly speaking the email implements most of AMPs most important features includeing a list to load data from a server, multiple forms for submitting data, and sensible fallback states for if the email can not connect to the internet or if it is sent to an email service provider that does not support AMP.
 
-
+![Marketing Email Demo](/assets/marketing-email.gif)
 
 ## Product reviews app with Yotpo
-
-![yotpo_gif](https://user-images.githubusercontent.com/77651757/126915617-3d8bf30a-736e-4477-b2c3-e8f851f84839.gif)
 
 We wanted to create a product review email that would increase the product review submissions. By combining both AMP technology with Yotpo's product review system, we were able to create an email template. This email template would then be used by Dyspatch users, to send to their customers in email, by asking for a product review. 
 By allowing customers to fill out reviews without needing to open a new browser tab, we hope to publish a valuable application for many businesses.
 
 All reviews are sent to Yotpo's e-commerce analytics. Performance analytics are then available to bring digital solutions for marketing and sales teams.
 
-
-
+![yotpo_gif](https://user-images.githubusercontent.com/77651757/126915617-3d8bf30a-736e-4477-b2c3-e8f851f84839.gif)
 
 ## Conclusion 
 
