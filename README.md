@@ -1,6 +1,6 @@
 # Team Dyspatch
 
-Team E or Team Dyspatch is composed of Karanvir Dhillon, Dimitry Maizik, and Dominique Hervochon. For this capstone project, we were privileged to be selected by Dyspatch to create several email templates that demonstrate their product’s unique capabilities, with a focus on Dyspatch’s use of Google’s AMP for Email technology. Dyspatch has been unfailingly supportive and welcoming and have provided us with not only oversight and instruction, but also integrated us within their day-to-day processes, allowing us to experience how a professional team works. 
+Team E or Team Dyspatch is composed of Karanvir Dhillon, Dimitry Maizik, and Dominique Hervochon. For this capstone project, we were privileged to be selected by Dyspatch to create several email templates that demonstrate their product’s unique capabilities, with a focus on Dyspatch’s use of Google’s AMP for Email technology. Dyspatch has been unfailingly supportive and welcoming and has provided us with not only oversight and instruction, but also integrated us within their day-to-day processes, allowing us to experience how a professional team works. 
 
 Dyspatch is a company located in Victoria with a history of sponsoring capstone projects. Their main products are an email production platform that aims to make creating enterprise email easier and faster by providing an API, editor, built in testing for devices, and an email template management system called Sendwithus. The sponsor for the project has been Maryam Sheikh, the Engineering Manager at Dyspatch. 
 
@@ -25,9 +25,9 @@ Karanvir grew up playing sports while in Victoria BC, and currently holds a cert
 
 ## About the project
 
-When you receive an email, in a lot of cases, the email only has some general information, and a link to an external website with the actual information you need. This adds an extra step that you end up needing to take to get the information that you need. Using AMP enhanced emails, we can remove that extra step, instead of having to click through to another site, you simply see the most up to date information in the email. 
+When you receive an email, in a lot of cases, the email only has some general information and a link to an external website with the actual information you need. this adds an extra step to get the information you need. Using AMP enhanced emails, we can remove that extra step. Instead of having to click through to another site, you simply see the most up to date information in the email. 
 
-Our project has been to create AMP enhanced emails that can be used to help educate consumers, and other companies that rely heavily on notification emails about the potential of AMP, and how it can make the users inbox be more productive. 
+Our project has been to create AMP enhanced emails that can be used to help educate consumers and other companies that rely heavily on notification emails about the potential of AMP and how it can make the users inbox be more productive. 
 
 ### What is AMP?
 
